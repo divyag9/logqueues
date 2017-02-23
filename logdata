@@ -1,0 +1,12 @@
+Name=spi, Type=spi, Depth=1000, Rate=10, LastProcessed=2008-09-16 19:00:00 -0500 CDT, LastReported=2017-02-02 20:52:42.471 -0600 CST
+Name=spi1, Type=spi1, Depth=10000, Rate=100, LastProcessed=2009-09-16 19:00:00 -0500 CDT, LastReported=2017-02-02 20:55:12.27 -0600 CST
+Name=spi2, Type=spi2, Depth=10, Rate=100, LastProcessed=2010-09-16 19:00:00 -0500 CDT, LastReported=2017-02-02 20:57:33.64 -0600 CST
+Name=spi2, Type=spi1, Depth=10, Rate=100, LastProcessed=2010-09-16 19:00:00 -0500 CDT, LastReported=2017-02-22 15:19:53.737 -0600 CST
+Name=foo, Type=bar, Depth=1000, Rate=10, LastProcessed=2008-09-17 15:04:26 -0500 CDT, LastReported=2017-02-22 17:29:13.501 -0600 CST
+Name=spi20, Type=spi10, Depth=10, Rate=100, LastProcessed=2010-09-16 19:00:00 -0500 CDT, LastReported=2017-02-22 15:20:26.998 -0600 CST
+Name=spi, Type=spi, Depth=1000, Rate=10, LastProcessed=2008-09-16 19:00:00 -0500 CDT, LastReported=2017-02-02 20:52:42.471 -0600 CST
+Name=spi1, Type=spi1, Depth=10000, Rate=100, LastProcessed=2009-09-16 19:00:00 -0500 CDT, LastReported=2017-02-02 20:55:12.27 -0600 CST
+Name=spi2, Type=spi2, Depth=10, Rate=100, LastProcessed=2010-09-16 19:00:00 -0500 CDT, LastReported=2017-02-02 20:57:33.64 -0600 CST
+Name=spi2, Type=spi1, Depth=10, Rate=100, LastProcessed=2010-09-16 19:00:00 -0500 CDT, LastReported=2017-02-22 15:19:53.737 -0600 CST
+Name=foo, Type=bar, Depth=1000, Rate=10, LastProcessed=2008-09-17 15:04:26 -0500 CDT, LastReported=2017-02-22 17:29:13.501 -0600 CST
+Name=spi20, Type=spi10, Depth=10, Rate=100, LastProcessed=2010-09-16 19:00:00 -0500 CDT, LastReported=2017-02-22 15:20:26.998 -0600 CST
